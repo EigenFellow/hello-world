@@ -1,5 +1,5 @@
 # hello-world
-A training exercise to learn about Git Repositories
+This is a training exercise to learn about Git repositories
 
 Twas brillig and the slithy toves
 Did gyre and gimble in the wabe
